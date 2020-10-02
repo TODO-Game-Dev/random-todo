@@ -26,7 +26,7 @@ let move = () => {
     if (boolean) {
         requestAnimationFrame(move)
     }else {
-        if (+p.innerText < 10) {
+        if (+p.innerText < 5) {
             h1.style.backgroundColor = 'Green'
             h1.innerText = 'Ganaste'
         } else {

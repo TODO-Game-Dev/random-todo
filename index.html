@@ -26,7 +26,7 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-      <h1 id="random-todo">Random TODO</h1>
+      <h1 id="random-todo">Random TODO <a href="#">Jugar</a></h1>
 <p>Experimento social (?)</p>
 
 <p>Repositorio abierto! Hagamos un juego random entre toda la comunidad <a href="https://todogamedev.com/discord">// TODO GAME DEV</a></p>
@@ -48,7 +48,8 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();
-    document.querySelector('h1').addEventListener('click',()=>{
+    document.querySelector('h1 > a').addEventListener('click',(e)=>{
+      e.preventDefault()
       location.href = (location.host=='todo-game-dev.github.io')?'https://todo-game-dev.github.io/random-todo/game.html':'http://'+location.host+'/game.html'
     })
     </script>
