@@ -1,0 +1,45 @@
+body{
+    overflow: hidden;
+    text-align: center;
+    background-color: #000000;
+    color: honeydew;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    border: 2px solid green;
+    display: inline-block;
+    padding: .5em;
+    background-color: #000000;
+    color: yellow;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 1em;
+    user-select: none;
+}
+section {
+    position: relative;
+    background-color: #000000;
+    width: 47vh;
+    height: 45vh;
+    margin: 2em auto ;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 5px solid gray;
+}
+
+section span {
+    position: absolute;
+    background-color: yellow;
+    width: 45vh;
+    height: 45vh;
+    margin: auto 1vh;
+    display: block;
+    transform-origin: 50% 50%;
+    transform: rotate(45deg);
+    clip-path: polygon(0% 50%, 5% 55%, 5% 51%, 50% 51%, 50% 49%, 5% 49%,5% 45%);
+}
+
+section span:nth-of-type(2) {
+    background-color: green;
+}
