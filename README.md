@@ -12,4 +12,4 @@ Si querés participar agregando cambios mandame tu e-mail de github por discord 
 Algunas reglas:
 - Intenta no borrar :D
 - El contenido del juego NO puede faltarle al respeto a NADIE de NINGUNA forma. Si algo del juego te ofende, por favor comunícate con la persona que lo agregó.
-- Para testear vuestras cosas, crear una carpeta con nombre **Testing** en *Assets/Testing* 
+- Para testear vuestras cosas, crear una carpeta con nombre **Testing** en *Assets/Testing* (**AVISO**: Estas cosas serán ignoradas por GIT y no se comitearán)
