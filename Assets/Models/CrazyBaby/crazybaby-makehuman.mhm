@@ -1,0 +1,128 @@
+# Written by MakeHuman HEAD:748a570b
+version v1.2.0
+camera 19.0 350.0 0.12190372640218479 0.12170454498507709 0.028175532592526684 1.225
+modifier head/head-age-decr|incr 1.000000
+modifier head/head-fat-decr|incr 1.000000
+modifier head/head-oval 1.000000
+modifier head/head-round 1.000000
+modifier head/head-rectangular 1.000000
+modifier head/head-square 1.000000
+modifier head/head-triangular 1.000000
+modifier head/head-invertedtriangular 1.000000
+modifier head/head-diamond 1.000000
+modifier head/head-back-scale-depth-decr|incr 1.000000
+modifier torso/torso-scale-depth-decr|incr 1.000000
+modifier torso/torso-scale-horiz-decr|incr 1.000000
+modifier torso/torso-scale-vert-decr|incr 1.000000
+modifier torso/torso-trans-in|out 1.000000
+modifier torso/torso-trans-down|up 1.000000
+modifier torso/torso-trans-backward|forward 1.000000
+modifier torso/torso-vshape-decr|incr 1.000000
+modifier torso/torso-muscle-dorsi-decr|incr 1.000000
+modifier torso/torso-muscle-pectoral-decr|incr 1.000000
+modifier hip/hip-scale-depth-decr|incr 1.000000
+modifier hip/hip-scale-horiz-decr|incr 1.000000
+modifier hip/hip-scale-vert-decr|incr 1.000000
+modifier hip/hip-trans-in|out 1.000000
+modifier hip/hip-trans-down|up 1.000000
+modifier hip/hip-trans-backward|forward 1.000000
+modifier hip/hip-waist-down|up 1.000000
+modifier stomach/stomach-navel-in|out 1.000000
+modifier stomach/stomach-tone-decr|incr 1.000000
+modifier stomach/stomach-pregnant-decr|incr 1.000000
+modifier stomach/stomach-navel-down|up 1.000000
+modifier buttocks/buttocks-volume-decr|incr 1.000000
+modifier pelvis/pelvis-tone-decr|incr 1.000000
+modifier pelvis/bulge-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-distance-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-diameter-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-length-decr|incr 1.000000
+modifier armslegs/r-hand-scale-decr|incr 1.000000
+modifier armslegs/r-hand-trans-in|out 1.000000
+modifier armslegs/l-hand-fingers-distance-decr|incr 1.000000
+modifier armslegs/l-hand-fingers-diameter-decr|incr 1.000000
+modifier armslegs/l-hand-fingers-length-decr|incr 1.000000
+modifier armslegs/l-hand-scale-decr|incr 1.000000
+modifier armslegs/l-hand-trans-in|out 1.000000
+modifier armslegs/r-foot-scale-decr|incr 1.000000
+modifier armslegs/r-foot-trans-in|out 1.000000
+modifier armslegs/r-foot-trans-backward|forward 1.000000
+modifier armslegs/l-foot-scale-decr|incr 1.000000
+modifier armslegs/l-foot-trans-in|out 1.000000
+modifier armslegs/l-foot-trans-backward|forward 1.000000
+modifier armslegs/r-lowerarm-scale-depth-decr|incr 1.000000
+modifier armslegs/r-lowerarm-scale-horiz-decr|incr 1.000000
+modifier armslegs/r-lowerarm-scale-vert-decr|incr 1.000000
+modifier armslegs/r-lowerarm-fat-decr|incr 1.000000
+modifier armslegs/r-lowerarm-muscle-decr|incr 1.000000
+modifier armslegs/r-upperarm-scale-depth-decr|incr 1.000000
+modifier armslegs/r-upperarm-scale-horiz-decr|incr 1.000000
+modifier armslegs/r-upperarm-scale-vert-decr|incr 1.000000
+modifier armslegs/r-upperarm-fat-decr|incr 1.000000
+modifier armslegs/r-upperarm-shoulder-muscle-decr|incr 1.000000
+modifier armslegs/r-upperarm-muscle-decr|incr 1.000000
+modifier armslegs/l-lowerarm-scale-depth-decr|incr 1.000000
+modifier armslegs/l-lowerarm-scale-horiz-decr|incr 1.000000
+modifier armslegs/l-lowerarm-scale-vert-decr|incr 1.000000
+modifier armslegs/l-lowerarm-fat-decr|incr 1.000000
+modifier armslegs/l-lowerarm-muscle-decr|incr 1.000000
+modifier armslegs/l-upperarm-scale-depth-decr|incr 1.000000
+modifier armslegs/l-upperarm-scale-horiz-decr|incr 1.000000
+modifier armslegs/l-upperarm-scale-vert-decr|incr 1.000000
+modifier armslegs/l-upperarm-fat-decr|incr 1.000000
+modifier armslegs/l-upperarm-shoulder-muscle-decr|incr 1.000000
+modifier armslegs/l-upperarm-muscle-decr|incr 1.000000
+modifier armslegs/r-leg-valgus-decr|incr 1.000000
+modifier armslegs/r-lowerleg-scale-depth-decr|incr 1.000000
+modifier armslegs/r-lowerleg-scale-horiz-decr|incr 1.000000
+modifier armslegs/r-lowerleg-fat-decr|incr 1.000000
+modifier armslegs/r-lowerleg-muscle-decr|incr 1.000000
+modifier armslegs/r-upperleg-scale-depth-decr|incr 1.000000
+modifier armslegs/r-upperleg-scale-horiz-decr|incr 1.000000
+modifier armslegs/r-upperleg-scale-vert-decr|incr 1.000000
+modifier armslegs/r-upperleg-fat-decr|incr 1.000000
+modifier armslegs/r-upperleg-muscle-decr|incr 1.000000
+modifier armslegs/l-leg-valgus-decr|incr 1.000000
+modifier armslegs/l-lowerleg-scale-depth-decr|incr 1.000000
+modifier armslegs/l-lowerleg-scale-horiz-decr|incr 1.000000
+modifier armslegs/l-lowerleg-fat-decr|incr 1.000000
+modifier armslegs/l-lowerleg-muscle-decr|incr 1.000000
+modifier armslegs/l-upperleg-scale-depth-decr|incr 1.000000
+modifier armslegs/l-upperleg-scale-horiz-decr|incr 1.000000
+modifier armslegs/l-upperleg-scale-vert-decr|incr 1.000000
+modifier armslegs/l-upperleg-fat-decr|incr 1.000000
+modifier armslegs/l-upperleg-muscle-decr|incr 1.000000
+modifier armslegs/lowerlegs-height-decr|incr 1.000000
+modifier armslegs/upperlegs-height-decr|incr 1.000000
+modifier breast/BreastSize 0.000000
+modifier breast/BreastFirmness 0.000000
+modifier breast/breast-trans-down|up -0.242000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.000000
+modifier macrodetails/African 0.333333
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Muscle 1.000000
+modifier macrodetails-universal/Weight 1.000000
+modifier macrodetails-height/Height 1.000000
+modifier macrodetails-proportions/BodyProportions 1.000000
+modifier measure/measure-neck-circ-decr|incr 0.060000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+hair short03 a6cb8ad2-2e0d-4655-81ef-bfce1676ec67
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+skeleton game_engine.mhskel
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothes male_worksuit01 6afd98fa-381b-456f-aa46-3dd15b27b2f0
+clothes shoes06 35abc230-ebaa-48d4-8ff7-6d84168291a0
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material short03 a6cb8ad2-2e0d-4655-81ef-bfce1676ec67 short03.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+material eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084 eyebrow001.mhmat
+material Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2 eyelashes01.mhmat
+material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False
